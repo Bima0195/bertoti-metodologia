@@ -30,7 +30,7 @@ Atualmente, estou em transição para desenvolvimento backend, com foco em Java 
 
 ## Meus Projetos
 Em 2025-2
-Empresa Parceira: ![Altave](https://altave.com.br/)(Projeto interno)
+!Empresa Parceira: ![Altave(Projeto interno)](https://altave.com.br/)
 
 ## Contribuções
 
