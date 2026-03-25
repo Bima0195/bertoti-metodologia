@@ -29,8 +29,17 @@ Atualmente, estou em transição para desenvolvimento backend, com foco em Java 
 
 
 ## Meus Projetos
-Em 2025-2
-!Empresa Parceira: ![Altave(Projeto interno)](https://altave.com.br/)
+
+Em 2025-2  
+Empresa Parceira: Altave (Projeto Interno)
+
+# Problema
+A Altave enfrentava dificuldade em identificar, organizar e utilizar as competências internas de seus colaboradores de forma eficiente. As informações sobre habilidades, experiências e potencial dos profissionais estavam dispersas ou não estruturadas, o que dificultava a tomada de decisão em processos de alocação e abertura de novas vagas.
+
+# Solução
+Para resolver esse problema, foi desenvolvido o DataSkill, uma plataforma interna inspirada em um modelo de LinkedIn corporativo, com foco no mapeamento estruturado de competências e avaliação de colaboradores.
+A solução permite o cadastro de perfis profissionais, incluindo hard skills e soft skills, além da realização de avaliações internas, como autoavaliação e feedbacks de líderes e gestores. Essas informações são centralizadas e organizadas em dashboards, facilitando a análise e comparação entre colaboradores.
+Com isso, a empresa passa a ter maior visibilidade sobre seus talentos, possibilitando decisões mais assertivas na alocação de recursos, promoções e recrutamento interno, reduzindo dependência de contratações externas e aumentando a eficiência operacional.
 
 ## Contribuções
 
