@@ -10,6 +10,10 @@ Em 2024, atuei como auxiliar financeiro, ampliando minha visão sobre processos 
 
 Atualmente, estou em transição para desenvolvimento backend, com foco em Java e Spring Boot, além de conhecimentos em JavaScript, APIs REST, modelagem de dados e lógica de programação. Busco uma oportunidade de estágio onde possa aplicar e evoluir minhas habilidades técnicas em um ambiente de desenvolvimento.
 
+## Contato
+- [Git](github.com/Bima0195)
+- [LinkedIn](linkedin.com/in/abimaelssantos)
+
 ## Descrição
 
 ## Metodologia
