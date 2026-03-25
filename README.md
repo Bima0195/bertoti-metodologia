@@ -14,6 +14,24 @@ Atualmente, estou em transição para desenvolvimento backend, com foco em Java 
 - [Git](github.com/Bima0195)
 - [LinkedIn](linkedin.com/in/abimaelssantos)
 
+## 🚀 Meus principais conhecimentos
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Outros
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Service Desk](https://img.shields.io/badge/Service_Desk-555555?style=for-the-badge)
 ## Descrição
 
 ## Metodologia
