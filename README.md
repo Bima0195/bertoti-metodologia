@@ -28,7 +28,9 @@ Atualmente, estou em transição para desenvolvimento backend, com foco em Java 
 
 
 
-## Metodologia
+## Meus Projetos
+Em 2025-2
+Empresa Parceira: ![Altave](https://altave.com.br/)(Projeto interno)
 
 ## Contribuções
 
