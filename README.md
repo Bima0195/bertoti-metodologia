@@ -40,7 +40,21 @@ A Altave enfrentava dificuldade em identificar, organizar e utilizar as competê
 Para resolver esse problema, foi desenvolvido o DataSkill, uma plataforma interna inspirada em um modelo de LinkedIn corporativo, com foco no mapeamento estruturado de competências e avaliação de colaboradores.
 A solução permite o cadastro de perfis profissionais, incluindo hard skills e soft skills, além da realização de avaliações internas, como autoavaliação e feedbacks de líderes e gestores. Essas informações são centralizadas e organizadas em dashboards, facilitando a análise e comparação entre colaboradores.
 Com isso, a empresa passa a ter maior visibilidade sobre seus talentos, possibilitando decisões mais assertivas na alocação de recursos, promoções e recrutamento interno, reduzindo dependência de contratações externas e aumentando a eficiência operacional.
-[Repositório do projeto](https://github.com/Bima0195/DataSkill)
+
+**[Repositório do projeto](https://github.com/Bima0195/DataSkill)**
+
+## Tecnologias Utilizadas
+> ### Tecnologias Utilizadas
+>
+> - **Java:** Utilizado no desenvolvimento do backend, proporcionando flexibilidade e facilidade de manutenção na lógica do sistema.
+> - **Angular:** Ferramenta utilizada para o desenvolvimento da interface gráfica do usuário, permitindo uma criação rápida e simples da UI.
+> - **Figma:** Utilizado para design e prototipagem da interface, ajudando no planejamento do layout da aplicação.
+> - **MySQL:** Utilizado para armazenar e gerenciar os dados do projeto de forma simples e eficaz.
+> - **Git e GitHub:** Essenciais para controle de versão e colaboração entre os membros da equipe.
+> - **Swagger (OpenAPI):** Ferramenta usada para gerenciar a documentação.
+> - **Postman (OpenAPI):** Ferramenta usada para testar endpoints.
+
+ 
 ## Contribuções
 
 ## Aprendizado
