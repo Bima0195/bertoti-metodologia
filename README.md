@@ -62,9 +62,16 @@ Com isso, a empresa passa a ter maior visibilidade sobre seus talentos, possibil
   Atuei um pouco na modelagem de dados e na criação de algumas entidades.
 </details>
 
-<details>
-  <summary>Configuração da interface da tela de login</summary>
-  Aqui você pode colocar o passo a passo ou o código referente à tela de login.
-</details>
+  Hard Skills
+> - Java : Sei fazer com autonomia
+> - SQL : Sei fazer com autonomia
+
+Soft Skills
+
+Comunicação:  
+
+Autodidatismo : 
+
+Trabalho sob pressão: 
 
 ## Aprendizado
