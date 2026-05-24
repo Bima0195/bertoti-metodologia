@@ -75,3 +75,4 @@ Autodidatismo :
 Trabalho sob pressão: 
 
 ## Aprendizado
+Durante o desenvolvimento de APIs, aprendi a estruturar o banco de dados e compreender como o backend se comunica com ele. Também adquiri experiência com o framework Spring, além de aprimorar minhas habilidades em SQL, utilizando ferramentas como MySQL e Oracle.
