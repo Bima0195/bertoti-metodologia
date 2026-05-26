@@ -68,11 +68,27 @@ Com isso, a empresa passa a ter maior visibilidade sobre seus talentos, possibil
 
 Soft Skills
 
-Comunicação:  
+📢 Comunicação (para lidar com desafios do grupo e trabalhar melhor em equipe)
+•	Impacto: Garante o alinhamento de metas.
+•	Resolução: Transforma conflitos em soluções construtivas.
+•	Clareza: Reduz erros por falta de informação.
+•	Escuta: Valoriza as ideias dos outros membros.
+•	Sinergia: Fortalece a confiança entre as pessoas.
 
-Autodidatismo : 
+🧠 Autodidatismo (para aprender rápido e evoluir)
+•	Agilidade: Reduz o tempo de integração a novos projetos.
+•	Iniciativa: Busca conhecimento sem depender de treinamentos formais.
+•	Atualização: Mantém o perfil profissional competitivo e moderno.
+•	Adaptação: Facilita a transição entre diferentes tecnologias ou processos.
+•	Solução: Encontra respostas para problemas inéditos de forma independente.
 
-Trabalho sob pressão: 
+⚡ Trabalho sob Pressão (para manter a eficiência em momentos críticos)
+•	Foco: Mantém a entrega de resultados mesmo com prazos curtos.
+•	Resiliência: Controla o estresse em situações de crise.
+•	Priorização: Identifica rapidamente o que é mais importante fazer.
+•	Tomada de decisão: Escolhe caminhos seguros de forma rápida.
+•	Constância: Mantém a qualidade do trabalho sob forte demanda.
+
 
 ## Aprendizado
 Durante o desenvolvimento de APIs, aprendi a estruturar o banco de dados e compreender como o backend se comunica com ele. Também adquiri experiência com o framework Spring, além de aprimorar minhas habilidades em SQL, utilizando ferramentas como MySQL e Oracle.
