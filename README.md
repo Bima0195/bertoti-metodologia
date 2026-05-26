@@ -100,7 +100,7 @@ Soft Skills
 * **Eficiência:** Otimiza consultas complexas para respostas rápidas do banco.
 * **Integridade:** Garante a consistência dos dados em transações críticas.
 * **Modelagem:** Estrutura tabelas e relacionamentos de forma lógica e organizada.
-* **Automação:** Cria procedures e triggers para reduzir processos manuais.
+* **Automação:** Joins, Filtros, Select, Group by e Count.
 * **Análise:** Transforma dados brutos em informações úteis para o negócio.
 
 
