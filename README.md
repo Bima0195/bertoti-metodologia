@@ -68,26 +68,40 @@ Com isso, a empresa passa a ter maior visibilidade sobre seus talentos, possibil
 
 Soft Skills
 
-📢 Comunicação (para lidar com desafios do grupo e trabalhar melhor em equipe)
-•	Impacto: Garante o alinhamento de metas.
-•	Resolução: Transforma conflitos em soluções construtivas.
-•	Clareza: Reduz erros por falta de informação.
-•	Escuta: Valoriza as ideias dos outros membros.
-•	Sinergia: Fortalece a confiança entre as pessoas.
+# 📢 Comunicação (para lidar com desafios do grupo e trabalhar melhor em equipe)
+* **Impacto:** Garante o alinhamento de metas.
+* **Resolução:** Transforma conflitos em soluções construtivas.
+* **Clareza:** Reduz erros por falta de informação.
+* **Escuta:** Valoriza as ideias dos outros membros.
+* **Sinergia:** Fortalece a confiança entre as pessoas.
 
-🧠 Autodidatismo (para aprender rápido e evoluir)
-•	Agilidade: Reduz o tempo de integração a novos projetos.
-•	Iniciativa: Busca conhecimento sem depender de treinamentos formais.
-•	Atualização: Mantém o perfil profissional competitivo e moderno.
-•	Adaptação: Facilita a transição entre diferentes tecnologias ou processos.
-•	Solução: Encontra respostas para problemas inéditos de forma independente.
+# 🧠 Autodidatismo (para aprender rápido e evoluir)
+* **Agilidade:** Reduz o tempo de integração a novos projetos.
+* **Iniciativa:** Busca conhecimento sem depender de treinamentos formais.
+* **Atualização:** Mantém o perfil profissional competitivo e moderno.
+* **Adaptação:** Facilita a transição entre diferentes tecnologias ou processos.
+* **Solução:** Encontra respostas para problemas inéditos de forma independente.
 
-⚡ Trabalho sob Pressão (para manter a eficiência em momentos críticos)
-•	Foco: Mantém a entrega de resultados mesmo com prazos curtos.
-•	Resiliência: Controla o estresse em situações de crise.
-•	Priorização: Identifica rapidamente o que é mais importante fazer.
-•	Tomada de decisão: Escolhe caminhos seguros de forma rápida.
-•	Constância: Mantém a qualidade do trabalho sob forte demanda.
+# ⚡ Trabalho sob Pressão (para manter a eficiência em momentos críticos)
+* **Foco:** Mantém a entrega de resultados mesmo com prazos curtos.
+* **Resiliência:** Controla o estresse em situações de crise.
+* **Priorização:** Identifica rapidamente o que é mais importante fazer.
+* **Tomada de decisão:** Escolhe caminhos seguros de forma rápida.
+* **Constância:** Mantém a qualidade do trabalho sob forte demanda.
+
+# ☕ Java (para o desenvolvimento de sistemas robustos e escaláveis)
+* **Orientação a Objetos:** Cria códigos modulares, reutilizáveis e fáceis de manter.
+* **Performance:** Garante execução rápida e segura em aplicações críticas.
+* **Versatilidade:** Permite atuar desde sistemas web até grandes backends corporativos.
+* **Ecossistema:** Utiliza frameworks modernos como Spring para acelerar entregas.
+* **Padrões de Projeto:** Aplica boas práticas de arquitetura para evitar débitos técnicos.
+
+# 💾 SQL Developer (para manipulação inteligente e segura de dados)
+* **Eficiência:** Otimiza consultas complexas para respostas rápidas do banco.
+* **Integridade:** Garante a consistência dos dados em transações críticas.
+* **Modelagem:** Estrutura tabelas e relacionamentos de forma lógica e organizada.
+* **Automação:** Cria procedures e triggers para reduzir processos manuais.
+* **Análise:** Transforma dados brutos em informações úteis para o negócio.
 
 
 ## Aprendizado
