@@ -30,7 +30,9 @@ Atualmente, estou em transição para desenvolvimento backend, com foco em Java 
 
 # Meus Projetos
 
-Em 2025-2  
+## Em 2024-2
+## Em 2025-1
+## Em 2025-2  
 Empresa Parceira: Altave (Projeto Academico)
 
 ## Problema
@@ -102,7 +104,8 @@ Soft Skills
 * **Modelagem:** Estrutura tabelas e relacionamentos de forma lógica e organizada.
 * **Automação:** Joins, Filtros, Select, Group by e Count.
 * **Análise:** Transforma dados brutos em informações úteis para o negócio.
-
-
+ 
 ## Aprendizado
 Durante o desenvolvimento de APIs, aprendi a estruturar o banco de dados e compreender como o backend se comunica com ele. Também adquiri experiência com o framework Spring, além de aprimorar minhas habilidades em SQL, utilizando ferramentas como MySQL e Oracle.
+
+# 2026-1
