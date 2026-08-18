@@ -30,9 +30,27 @@ Atualmente, estou em transição para desenvolvimento backend, com foco em Java 
 
 # Meus Projetos
 
-## Em 2024-2
-## Em 2025-1
-## Em 2025-2  
+# Em 2024-2
+## Problema
+## Solução
+
+**[Repositório do projeto](https://github.com/Bima0195/DataSkill)**
+## Tecnologias Utilizadas
+> ### Tecnologias Utilizadas
+>
+> - **Java:** Utilizado no desenvolvimento do backend, proporcionando flexibilidade e facilidade de manutenção na lógica do sistema.
+> - **Angular:** Ferramenta utilizada para o desenvolvimento da interface gráfica do usuário, permitindo uma criação rápida e simples da UI.
+> - **Figma:** Utilizado para design e prototipagem da interface, ajudando no planejamento do layout da aplicação.
+> - **MySQL:** Utilizado para armazenar e gerenciar os dados do projeto de forma simples e eficaz.
+> - **Git e GitHub:** Essenciais para controle de versão e colaboração entre os membros da equipe.
+> - **Swagger (OpenAPI):** Ferramenta usada para gerenciar a documentação.
+> - **Postman (OpenAPI):** Ferramenta usada para testar endpoints.
+
+Contribuções
+
+
+# Em 2025-1
+# Em 2025-2  
 Empresa Parceira: Altave (Projeto Academico)
 
 ## Problema
